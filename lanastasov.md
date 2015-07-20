@@ -1,4 +1,4 @@
 
-- Q) **What is a Buffer? (Golang) **
+- Q) **What is a Buffer? (Golang)**
 
-  - a1) *buffer is a variable sized **buffer of bytes** with read and write methods *
+  - A1) *buffer is a variable sized __buffer of bytes__ with read and write methods*
