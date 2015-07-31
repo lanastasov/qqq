@@ -12,3 +12,11 @@
 - Q3) *Using __Java Server Faces__ is not architectural decision?*
 
   - A1) True
+
+- Q4) *The decision to use a __web-based client__ is an architectural decision?*
+
+  - A1) True
+
+- Q5) *What is Information Architecture?*
+  
+  - A1) The process of creating a structure and tools for information such that it can be stored, retrieved, and managed efficiently and effectivly" - Rob Bogue
