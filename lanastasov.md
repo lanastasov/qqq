@@ -19,4 +19,9 @@
 
 - Q5) *What is Information Architecture?*
   
-  - A1) The process of creating a structure and tools for information such that it can be stored, retrieved, and managed efficiently and effectivly" - Rob Bogue
+  - A1) The process of creating a structure and tools for information such that it can be stored, retrieved, and managed efficiently and effectivly" - Rob Bogue  -
+
+- Q6) Multiplexer noun (Computer Science) is ?
+  
+  - A1) a device that enables the * simultaneous transmission *  of several messages or signals over *one communications channel*
+  - https://github.com/npat-efault/poller
