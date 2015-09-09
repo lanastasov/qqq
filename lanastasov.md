@@ -1,3 +1,6 @@
+- Q8) cross compiler
+   - A1) compiler capable of creating executable code for a platform other than the one on which the compiler is running
+   
 - Q7) Gaussian filter *electronics and signal processing*
   
   - A1) a filter whose impulse response is a Gaussian function 
