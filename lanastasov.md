@@ -26,7 +26,7 @@
   - A1) a device that enables the * simultaneous transmission *  of several messages or signals over *one communications channel*
   - https://github.com/npat-efault/poller
 
-- Q7) Gaussian filter
+- Q7) Gaussian filter *electronics and signal processing*
   
   - A1) a filter whose impulse response is a Gaussian function 
     - Gaussian filters have the properties of having no overshoot to a step function input while minimizing the rise and fall time. 
