@@ -1,7 +1,24 @@
+- Q7) Gaussian filter *electronics and signal processing*
+  
+  - A1) a filter whose impulse response is a Gaussian function 
+    - Gaussian filters have the properties of having no overshoot to a step function input while minimizing the rise and fall time. 
+     
+- Q6) Multiplexer noun (Computer Science) is ?
+  
+  - A1) a device that enables the * simultaneous transmission *  of several messages or signals over *one communications channel*
+  - https://github.com/npat-efault/poller
 
-- Q1) **What is a Buffer? (Golang)**
+- Q5) *What is Information Architecture?*
+  
+  - A1) The process of creating a structure and tools for information such that it can be stored, retrieved, and managed efficiently and effectivly" - Rob Bogue  -
 
-  - A1) *buffer is a variable sized __buffer of bytes__ with read and write methods*
+- Q4) *The decision to use a __web-based client__ is an architectural decision?*
+
+  - A1) True
+
+- Q3) *Using __Java Server Faces__ is not architectural decision?*
+
+  - A1) True
 
 - Q2) **Shadow DOM** (Web Components)
   
@@ -9,24 +26,13 @@
 
   - A2) *Shadow DOM is an emerging web standard that gives developers access to style and DOM scoping*
 
-- Q3) *Using __Java Server Faces__ is not architectural decision?*
+- Q1) **What is a Buffer? (Golang)**
 
-  - A1) True
+  - A1) *buffer is a variable sized __buffer of bytes__ with read and write methods*
 
-- Q4) *The decision to use a __web-based client__ is an architectural decision?*
 
-  - A1) True
 
-- Q5) *What is Information Architecture?*
-  
-  - A1) The process of creating a structure and tools for information such that it can be stored, retrieved, and managed efficiently and effectivly" - Rob Bogue  -
 
-- Q6) Multiplexer noun (Computer Science) is ?
-  
-  - A1) a device that enables the * simultaneous transmission *  of several messages or signals over *one communications channel*
-  - https://github.com/npat-efault/poller
 
-- Q7) Gaussian filter *electronics and signal processing*
-  
-  - A1) a filter whose impulse response is a Gaussian function 
-    - Gaussian filters have the properties of having no overshoot to a step function input while minimizing the rise and fall time. 
+
+
