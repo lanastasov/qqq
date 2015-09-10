@@ -1,3 +1,8 @@
+- Q9) Win32
+   - A1) - 32-bit API for modern versions of Windows
+         - The API consists of functions implemented, as with Win16, in system DLLs. The core DLLs of Win32 are kernel32.dll, user32.dll, and gdi32.dll.
+         - Win32 was introduced with Windows NT.
+         
 - Q8) cross compiler
    - A1) compiler capable of creating executable code for a platform other than the one on which the compiler is running
    
