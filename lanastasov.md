@@ -2,6 +2,7 @@
   - A1)
     - This is not possible You should generate new pair of public and private keys
     - https://help.github.com/articles/generating-ssh-keys/
+    - ssh-keygen -t rsa -b 4096 -C "lubomir.anastasov@gmail.com"
 
 - Q10) ActiveX
    - A1) 
