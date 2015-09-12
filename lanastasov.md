@@ -1,3 +1,8 @@
+- Q11) How Do I export my *private key* from Github to C:\Users\username\.ssh\id_rsa.pub
+  - A1)
+    - This is not possible You should generate new pair of public and private keys
+    - https://help.github.com/articles/generating-ssh-keys/
+
 - Q10) ActiveX
    - A1) 
      - set of rules for how applications should share information
