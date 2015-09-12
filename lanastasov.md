@@ -1,4 +1,4 @@
-- Q11) How Do I export my *private key* from Github to C:\Users\username\.ssh\id_rsa.pub
+- Q11) How Do I export my *private key* from Github to C:\Users\username\\.ssh\id_rsa.pub
   - A1)
     - This is not possible You should generate new pair of public and private keys
     - https://help.github.com/articles/generating-ssh-keys/
