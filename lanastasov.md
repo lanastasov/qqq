@@ -32,6 +32,7 @@
   - A1) 
      - a device that enables the *simultaneous transmission*  of several messages or signals over *one communications channel*
      - https://github.com/npat-efault/poller
+   - https://github.com/go-zoo/bone *Lightning Fast HTTP Multiplexer*
 
 - Q5) *What is Information Architecture?*
   - A1) The process of creating a structure and tools for information such that it can be stored, retrieved, and managed efficiently and effectivly" - Rob Bogue  -
