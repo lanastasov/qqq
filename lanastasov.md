@@ -1,3 +1,9 @@
+- Q12) How to convert WMV to MP4?
+  - A1)
+    - ffmpeg -i input.wmv output.mpr
+    - http://www.ffmpeg.org
+    - http://superuser.com/questions/73529/how-to-convert-wmv-to-mp4
+
 - Q11) How Do I export my *private key* from Github to C:\Users\username\\.ssh\id_rsa.pub
   - A1)
     - This is not possible You should generate new pair of public and private keys
