@@ -1,6 +1,6 @@
 - Q12) How to convert WMV to MP4?
   - A1)
-    - ffmpeg -i input.wmv output.mpr
+    - ffmpeg -i input.wmv output.mp4
     - http://www.ffmpeg.org
     - http://superuser.com/questions/73529/how-to-convert-wmv-to-mp4
 
